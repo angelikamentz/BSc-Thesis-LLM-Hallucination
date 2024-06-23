@@ -1,0 +1,9 @@
+TARGET_CLASS,criterion,Coverage,Total_Goals,Covered_Goals
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6595775472878096,648,413
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6537821185410693,648,409
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6397209435142247,648,402
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6499775472878097,648,407
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6502333533930404,648,412
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6528907548349794,648,408
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6585821185410693,648,412
+net.virtualinfinity.atrobots.robot.Robot,BRANCH;LINE;OUTPUT;METHOD;CBRANCH,0.6394651374089938,648,397
